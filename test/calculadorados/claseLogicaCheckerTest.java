@@ -10,7 +10,7 @@ import org.junit.runners.Parameterized;
 
 /**
  * @version 1.0
- * @author Daniel Seijas
+ * @author VfromVendetta
  */
 @RunWith(Parameterized.class)
 public class claseLogicaCheckerTest {

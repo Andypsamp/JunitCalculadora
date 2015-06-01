@@ -2,7 +2,7 @@ package calculadorados;
 
 /**
  * @version 1.0
- * @author Daniel Seijas
+ * @author VfromVendetta
  */
 public class claseLogica {
     

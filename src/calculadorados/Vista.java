@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  * @version 1.0
- * @author Daniel Seijas Igleisas
+ * @author VfromVendetta
  */
 public class Vista {
     

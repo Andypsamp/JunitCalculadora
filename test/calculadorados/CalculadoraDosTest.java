@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 
 /**
  * @version 1.0
- * @author Daniel Seijas
+ * @author VfromVendetta
  */
 public class CalculadoraDosTest {
     
